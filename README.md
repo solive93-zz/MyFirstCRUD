@@ -35,5 +35,5 @@ Overall, I'd say I I learnt lots of useful stuff in this project.
 
 I also used Bootstrap (i never used it before) to make my app look nicer without spending much time with CSS, as it was a 'Back-End project' (and I had a short period of time to develop it). Plus, to improve our Front-End skills, in Factoria F5 we have a weekly assignment in which we have to clone a website using raw HTML and CSS (as well as some JS for animations if required). Check my webclone repo.
 
-Sergi Oliveres (aka solive93)
--
+### solive93
+
